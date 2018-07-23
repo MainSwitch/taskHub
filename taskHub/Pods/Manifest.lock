@@ -1,0 +1,20 @@
+PODS:
+  - SelectPickerCell (0.2.0)
+  - SwiftyUserDefaults (4.0.0-alpha.1)
+
+DEPENDENCIES:
+  - SelectPickerCell
+  - SwiftyUserDefaults (= 4.0.0-alpha.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SelectPickerCell
+    - SwiftyUserDefaults
+
+SPEC CHECKSUMS:
+  SelectPickerCell: f991492cb7d7fe6c8d2e18173d4c7a00a2a16501
+  SwiftyUserDefaults: cebe0ff9472f52699772a514b6f7155861d8069b
+
+PODFILE CHECKSUM: a9077639da36f441bae98b06d341f4621b55fed7
+
+COCOAPODS: 1.5.3
